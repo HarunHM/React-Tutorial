@@ -31,3 +31,19 @@
 8. Context - React’s context API gives you global state with a very lean API.
 
 9. Styles: CSS in JS in lots of ways
+
+<hr>
+<b> Day 35th : Introduction to React: </b></br>
+<p> 
+  https://github.com/HarunHM/React-Tutorial/blob/master/Day35-introduction-to-react.pdf
+</p>
+
+<hr>
+<b> Day 35th : Introduction to JSX: </b></br>
+<p> 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
+</p>
+
+
+
+<hr>
