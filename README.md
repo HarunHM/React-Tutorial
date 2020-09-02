@@ -39,11 +39,20 @@
 </p>
 
 <hr>
-<b> Day 35th : Introduction to JSX: </b></br>
+<b> Day 36th : Introduction to JSX: </b></br>
+<p> 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
+</p>
+<hr>
+<b> Day 37th : Introduction to JSX: </b></br>
 <p> 
  https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
 </p>
 
-
+<hr>
+<b> Day 38th : Introduction to Component, State and Props: </b></br>
+<p> 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
+</p>
 
 <hr>
