@@ -4,13 +4,12 @@
 1. Getting started - How to set up React, CRA and what are your options.</br>
 2. Introducing JSX. </br>
 3. Rendering Elements.</br>
-4. Routing in react. </br>
-5. Components and Props. </br>
-6. State and Lifecycle. </br>
-7. Handling Events.</br>
-9. Conditional Rendering.</br>
-9. Forms. </br>
-10. Composition vs Inheritance. </br>
+4. Components, Props,  State and Lifecycle.. </br>
+5. Routing in react
+6. Handling Events.</br>
+7. Conditional Rendering.</br>
+8. Forms. </br>
+9. Composition vs Inheritance. </br>
 
 <b><p>  TypeScript and React</b> </p>
 
@@ -44,9 +43,9 @@
  https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
 </p>
 <hr>
-<b> Day 37th : Introduction to JSX: </b></br>
+<b> Day 37th : Rendering React Elements.: </b></br>
 <p> 
- https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Elements%20Day%2037TH.pdf
 </p>
 
 <hr>
