@@ -51,7 +51,7 @@
 <hr>
 <b> Day 38th : Introduction to Component, State and Props: </b></br>
 <p> 
- https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Component-prop-state%20Day%2038.pdf
 </p>
 
 <hr>
