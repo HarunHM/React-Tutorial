@@ -32,26 +32,44 @@
 9. Styles: CSS in JS in lots of ways
 
 <hr>
-<b> Day 35th : Introduction to React: </b></br>
+<b>35th Day : Introduction to React: </b></br>
 <p> 
   https://github.com/HarunHM/React-Tutorial/blob/master/Day35-introduction-to-react.pdf
 </p>
 
 <hr>
-<b> Day 36th : Introduction to JSX: </b></br>
+<b>36th Day : Introduction to JSX: </b></br>
 <p> 
  https://github.com/HarunHM/React-Tutorial/blob/master/Introduction%20to%20jsx%20Day%2036.pdf 
 </p>
 <hr>
-<b> Day 37th : Rendering React Elements.: </b></br>
+<b> 37th Day : Rendering React Elements.: </b></br>
 <p> 
  https://github.com/HarunHM/React-Tutorial/blob/master/Elements%20Day%2037TH.pdf
 </p>
 
 <hr>
-<b> Day 38th : Introduction to Component, State and Props: </b></br>
+<b>38th Day : Introduction to Component, State and Props: </b></br>
 <p> 
  https://github.com/HarunHM/React-Tutorial/blob/master/Component-prop-state%20Day%2038.pdf
+</p>
+
+<hr>
+<b>39 Day : Introduction to Component, State and Props: </b></br>
+<p> 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Introduction-to-Components-Day39TH.pdf
+</p>
+
+<hr>
+<b> Challange 1 </b></br>
+<p> 
+ https://github.com/HarunHM/React-Tutorial/blob/master/React%20Challange%201.pdf
+</p>
+
+<hr>
+<b> 40th Day : Styling React Components</b></br>
+<p> 
+ https://github.com/HarunHM/React-Tutorial/blob/master/Styling%20reactapp%20Day%2040.pdf
 </p>
 
 <hr>
